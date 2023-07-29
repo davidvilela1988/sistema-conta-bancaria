@@ -28,18 +28,6 @@ public class ContaBancaria {
             }
         }
 
-
-        /*while (senha != password) {
-            System.out.println("Insira a senha do sistema:");
-            senha = senhaDigitada.nextLine();
-
-            if (senha == password){
-                break;
-
-            } else if (senha != password) {
-                System.out.println("Senha inválida! Tente novamente.");
-            }
-        }*/
         System.out.println("Bem vindo, " + nome + ".");
 
 
